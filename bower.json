@@ -1,0 +1,17 @@
+{
+  "name": "bootstrap-wysiwyg",
+  "main": "bootstrap-wysiwyg.js",
+  "homepage": "https://github.com/cvimbert/bootstrap-wysiwyg",
+  "authors": [
+    "Christophe <christophe@tralalere.com>"
+  ],
+  "description": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
